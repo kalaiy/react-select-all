@@ -1,0 +1,25 @@
+{
+  "name": "stackblitz-starters-erapo7",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/lodash": "^4.14.195",
+    "@types/react": "18.2.8",
+    "@types/react-dom": "18.2.4",
+    "lodash": "^4.17.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-id-generator": "^3.0.2",
+    "react-select": "^5.7.3",
+    "react-tooltip": "^5.13.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
